@@ -1,7 +1,7 @@
 # Workshop Tasks
 
 ## Pre-work
-
+adding somethig
 * Make yourself a github user account <https://github.com>
 * Install Visual Studio Code: <https://code.visualstudio.com/>
 * (optional) If you want to use the command line, set up ssh keys: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh>
